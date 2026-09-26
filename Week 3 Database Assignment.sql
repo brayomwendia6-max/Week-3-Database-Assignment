@@ -1,5 +1,5 @@
 CREATE TABLE student (
-id INT AUTO_INCREMENT PRIMARY KEY,
+id INT PRIMARY KEY,
 fullname VARCHAR(100),
 age int
 );
